@@ -1,0 +1,18 @@
+
+# Unity directories
+
+Library/
+Temp/
+
+# User-generated directories
+
+[Bb]in/
+[Rr]elease/
+WorkingFiles/
+
+# System-generated files
+
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
