@@ -1,4 +1,4 @@
-a hoopsnakes videogame for children 2012
+**a hoopsnakes videogame for children 2012**
 
 global game jam, january 2012, montreal
 
@@ -10,3 +10,8 @@ edutainment
 
 controls:
 none
+
+
+
+
+    PROLIFERATE THE HOOPSNAKE
